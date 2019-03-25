@@ -20,3 +20,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 //Stuff to be added here for Saturday 
+//Stuff to be added here for Sunday
